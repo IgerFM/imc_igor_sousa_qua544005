@@ -45,3 +45,9 @@
 #NOTE - Faltam 3 coisas, o repositorio do sistema, a implementação do sistema e o icone do site
 
 #NOTE - Este aplicativo tem que estar fora do repositorio pois so assim ele rodara o deploy
+
+#NOTE - Faremos o deploy por meio do git hub
+
+#NOTE - Usaremos o [render.com](https://render.com/)
+
+#NOTE - Para fazer o deploy em todas a hospoedagens devemos ter a biblioteca "gunicorn" instalando pelo comando "pip install gunicorn"
